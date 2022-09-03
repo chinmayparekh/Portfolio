@@ -1,6 +1,6 @@
-# Portfolio Template
+# Portfolio 
 
-### A beautiful minimal and accessible portfolio template for Developers ✨.
+### Personal Portfolio ✨.
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 
@@ -27,7 +27,7 @@ To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
 You'll need [Git](https://git-scm.com) to be installed on your computer. 
 ```
 # Clone this repository
-$ git clone https://github.com/nisarhassan12/portfolio-template
+$ git clone https://github.com/chinmayparekh/Portfolio.git
 ```
 
 If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/nisarhassan12/portfolio-template/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
@@ -45,10 +45,10 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Chinmay Parekh</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>A Web Developer based in Mumbai, India.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
